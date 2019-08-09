@@ -1,0 +1,8 @@
+Origin: Xin
+Label: Xin's Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: Xin
+Architecture: iphoneos-arm　
+Components: main
+Description: Xin Cydia Tweaks

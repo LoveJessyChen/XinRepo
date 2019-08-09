@@ -1,0 +1,2 @@
+bash -c "cd /Volumes/文档/0.GitHub/XinRepo; ./删掉bz2重新生成bz2.sh;"
+exit
